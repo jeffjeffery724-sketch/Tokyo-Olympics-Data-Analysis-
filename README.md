@@ -39,5 +39,5 @@ Continent-wise performance comparison
 Geographic map visualizations
 Advanced ranking and efficiency metrics
 
-Author: D Jeffery Emmanuel 
+Author: D Jeffery Emmanuel  
 Role: Power BI Developer | Data Analyst
